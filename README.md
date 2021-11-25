@@ -1,4 +1,4 @@
-# node-notes-app
+# Notes App
 A node command line note taking app
 
 1 - If you don't have node, install it first
